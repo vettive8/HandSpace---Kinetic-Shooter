@@ -1,0 +1,7 @@
+{
+  "name": "HandSpace - Kinetic Shooter",
+  "description": "A futuristic space shooter controlled entirely by your hand movements, using Three.js for 3D rendering and MediaPipe for AI-powered hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
